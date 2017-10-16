@@ -1,0 +1,1 @@
+node local.js -s APPNAME.herokuapp.com -l 1080 -m METHOD -k PASSWORD -p 80
